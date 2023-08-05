@@ -1,1 +1,30 @@
-# Itsme
+<html>
+
+<head>
+   <title>
+     ABOUT MY SELF
+   </title> 
+  <link rel="stylesheet" href="style.css" />
+  
+</head>
+  <body>
+    <H1 ID="K">*ABOUT MY SELF*</H1>
+    <br>
+    <p>
+      <h5>
+       MY NAME IS MD KARIM .I AM FROM BIHAR IN <del>SAMASTIPUR</del> DISTRICT. PRESENT I AM DOING DIPLOMA IN COMPUTER SCIENCE ENGINEERING IN 2ND SEM . MY HOBBY IS DOING CODING & PLAYING INDOOR GAMES LIKE AS BADMINTON, CARROM ETC... I WANT TO BECOME A SOFTWARE ENGINEER IT'S MY AIM AND PROFESSION .
+      </h5> 
+    </p>
+    <br />
+    
+    <img src="Screenshot_2023-04-10-06-45-46-437-edit_com.bigwinepot.nwdn.international-01.jpeg" align ="center"alt="My pic" height="250px" />
+    
+    <br /> <br />
+    
+    <a href="https://www.facebook.com/profile.php?id=100028194604842&mibextid=ZbWKwL">Click on this link and go My Facebook Profile</a>
+    
+    
+  </body>
+  
+
+</html>
