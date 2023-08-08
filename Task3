@@ -1,0 +1,187 @@
+<html>
+<head>
+<style>
+  #manuu pic{
+    height ="100px"
+    width="100px;
+  }
+i{
+    color:#123d69;
+}
+big{
+    color:#fc8803;
+}
+del{ 
+    
+    color: black;
+}
+  .star1{
+    color:red
+  } 
+body{
+    
+    color:black;
+    background-color:#e9f5f9;
+    font-weight:900;
+}
+#submit{
+    color:green;
+    font-weight:900;
+    font-size:27px;
+}
+#reset{
+    color:red;
+    background-color:black;
+    font-weight:700;
+    font-size:32px;
+}
+.Ending{
+    height:100px;
+    width:350px;
+    background-color:teal;
+    text-align="center"
+    font-space:10px;
+    font-size:25px;
+    color: black;  
+}
+ .Created{
+   font-size:10px;
+   font-weight:500px;
+   text-align="center"
+ }
+</style>
+<title>
+This is for Use Fill the form 
+</title>
+</head>
+<body>
+  <div align="center">
+     <img src="images (4).jpeg" alt="MANUU pic" id="manuu pic"/> <br /><hr />
+     
+  </div>
+<div>
+<Marquee direction="down">
+<H1 ALIGN="center" style=color:red>
+  <I>New Registation </I>
+  <big>
+  Form
+  
+ </big>
+  <DEL>MANUU</del>
+  </h1>
+
+</Marquee>
+</div> 
+<Form action="/action.php" id="form">
+<fieldset>
+
+
+<!--For The First Name -->
+
+<div Align="center">
+<label for="firstname">First Name </label>
+
+<Input type ="text" name="FIRST NAME" placeholder="Enter you first name">
+<br /><br>
+<!--For The Second Name -->
+<label for="lastname">Last name </label>
+
+<input type="text" Name="second name" placeholder="Enter your first name">
+
+<br /><br>
+
+<!--For the Roll no -->
+Roll no<Input type="text" placeholder="Enter your Roll no ">
+  <br><br>
+  <!--For the Enrollment no-->
+  <div>
+ <label for="enrollment">Enrollment no </label> <input type="text" placeholder="Enter your Enrollment">
+  </div>
+ <!--select your D.O.B -->
+ <label for="birth">Select your Birth</label><input type="date"><br><br>
+  <!--Select your pic -->
+  Select photo<Input type="file">
+  <br /> <br />
+<!--Select you branch section-->
+<div>
+<label for="branch">
+  <span class="star1">*</span>Select Branch<span class="star1">*
+  </span></label>
+  </div>
+<div style="color:#429bf5"> 
+CSE<input type ="radio" name="branch" value="CSE">
+ECE<input type ="radio" name="branch"value="ECE">
+IT<input type ="radio" name="branch" value="IT">
+Civil<input type ="radio" name="branch" value="Civil"> 
+</div><br> <br />
+<!--interest SubJ Of Your course-->
+<div>
+<label for="interest"><span class="star1">*
+</span>Select interest 
+<span class="star1">
+   *
+</span></label><br>
+</div>
+  <div style="color:#429bf5">
+Java<input type ="checkbox">
+Python<input type ="checkbox">
+C++<input type ="checkbox">
+SQL<input type ="checkbox">
+    
+</div> <br>
+ <!--For The Email  Address -->
+ 
+ <label for="mail"> Email-Id </email>
+ <input type="text" name="Email-Id"placeholder="Enter your email address"> 
+ 
+ <br /><br>
+ 
+ 
+ <!--For E-mail Password -->
+ 
+ 
+ <label for="password"> Email-Id-Password</label>
+ 
+ <Input type="Password" name="Email Password" placeholder="Enter your Password" >
+ <br><br>
+ <!--For the Address -->
+ 
+ 
+ <label for="address"> Adress </label>
+ <textarea name="Adress" Placeholder="Enter Your Adress"></textarea>
+ 
+ <br /><br>
+ 
+ 
+ <!--For the Gender -->
+ 
+ 
+ <label for="gender">Select Gender </label>
+ 
+ <select name="Gender">
+ 
+     <option value="male">Male</option>
+     <option value="Female">Female </option>
+     <option value="other" >Other</option>
+     </select>
+    
+<br> <br>
+ 
+ <div>
+  <button id="submit" target="_blank">Submit </submit>
+  <button id="reset">Reset</button>
+ </div>
+ </feildset>
+   </Form>
+ <br><br>
+ 
+ <div class="Ending">
+ Thank you For <br><br>😊 Submiting The Form 😊 
+ </div> <br /><br />
+   <div class="Created">
+     <samp>
+       THIS IS CREATED BY MD KARIM </samp>
+   </div>
+ 
+ </body >
+ </html>
