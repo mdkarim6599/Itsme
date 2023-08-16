@@ -1,0 +1,64 @@
+<html>
+   <head>
+      <title>
+        Tribute Page of This Legend Human
+      </title>
+      <style>
+        #first{
+           font-size:60px;
+          font-weight:900;
+         }
+        h1{
+          font-family:sans-serif;
+        }
+        .setmargin{
+          margin:25px;
+          padding:15px;
+        }
+       .summary {
+         font-weight:350;
+         padding
+         
+       }
+        
+      .parah{
+            margin:1px 30px 0px ;
+            background-color: powderblue;
+      }
+        a{
+             Text-decoration:none;
+             
+        }
+      </style>
+      
+   </head>
+   <body>
+      <h1 id="first" align="center">
+         Shakuntala Devi
+      </h1> <br /> 
+     <div align="center">
+     <img src="images.jpeg" / alt="pic" height="600px" width="650px">
+     </div> <br /><br />
+     <H1 ALIGN="center"> <u>About This Legend Ladies</u> </H1>
+    <div class="setmargin">
+      <ul>
+      <li>
+        Shakuntala Devi was born on 4 November 1929 at Bangalore, Karnataka,to a Kannada Brahmin family.</li> <li>Her father, C V Sundararaja Rao, worked as a trapeze artist, lion tamer, tightrope walker and magician in a circus.</li><li> He discovered his daughter's ability to memorise numbers while teaching her a card trick when she was about three years old.</li><li>Her father left the circus and took her on road shows that displayed her ability at calculation.</li><li> She did this without any formal education.</li><li>At the age of six she demonstrated her arithmetic abilities at the University of Mysore.</li><li>
+In 1944, Devi moved to London, United Kingdom.
+     </li> 
+       </ul> 
+        
+     </div>
+     <div class="summary">
+     <p class="parah">
+      Shakuntala Devi <abbr> (4 November 1929 – 21 April 2013)</abbr> 
+ <mark> <u>was an Indian mental calculator and writer</u>,</mark> popularly known as the "Human Computer". Her talent earned her a place in the 1982 edition of The Guinness Book of World Records. However, the certificate for the record was given posthumously on 30 July 2020, despite Devi achieving her world record on 18 June 1980 at Imperial College, London. Devi was a precocious child and she demonstrated her arithmetic abilities at the University of Mysore without any formal education </p> </div>
+     <br />
+     
+<div class="link" align="center">
+       <a href="https://www.businessinsider.in/thelife/personalities/news/some-interesting-facts-about-shakuntala-devi-a-human-computer/articleshow/72492144.cms">ABOUT MORE ABOUT THIS PERSON
+      </a>
+</div>  
+   </body>
+   
+</html>
