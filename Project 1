@@ -1,0 +1,237 @@
+<html>
+<head>
+<title>
+CODING ADDA
+</title>
+<link rel="stylesheet" href="style.css" />
+<link rel="Website icon" type="png" href="1693238017024-removebg-preview.png" />
+<style>
+   *{
+  margin-left:5;
+  margin:right:2; 
+  padding:0;
+}
+
+.one{
+  text-align:center;
+  background-image:url('images.jpeg');
+  background-size:cover;
+  color:#b0e5eb;
+  font-size:50px;
+  margin-top:20px;
+  margin-left:0;
+  margin-right:0;
+  padding:30px
+}
+.list {
+  font-size:40px;
+  margin:20px;
+  font-weight:900px;
+  }
+
+li {
+  font-weight:900;
+}
+
+.parah1{
+  margin-left:30px;
+  font-weight:300;
+  font-size:15px;
+  }
+.weight{
+  font-weight:100;
+  }
+.logo{
+  width:100%;
+  position:relative;
+  }
+
+nav{
+  display:flex;
+  margin:auto;
+  padding:15px 0;
+  weight:100%;
+  justify-content:space-between;
+}
+nav ul li{
+           display:inline-block;
+           list-style: none;
+           margin:10px 30px;
+  }
+img{
+  height:250;
+  }
+
+nav ul li a{
+      text-decoration:none;
+      color:black;
+      font-weight:bold;
+      font-size:40px;
+}
+a:hover{
+          color:red;   
+  }
+.two{
+  color:green;
+  }
+#internalcss{
+  display: flex;
+  margin-top:0;
+  margin-bottom:23;
+  justify-content: center;
+  align-items:center;
+  }
+
+</style>
+
+</head>
+<body>
+<H1 class="one">WELCOME TO CODING <del> <i> ADDA </i> </del></h1> <br /> <br />
+  
+  <div class="logo">
+ <nav>
+   
+    <img src="IMG_20230826_233956.png" alt="Logo" /> 
+   <ul>
+     <li><a href="#">Home</a></li>
+     <li><a href="#">About</a></li>
+     <li><a href="#">Service</a></li>
+     <li><a href="#">Contact</a></li>
+   </ul>
+ </nav>     
+       </div>
+    
+    
+     
+  </div>
+  
+
+  <ul class="list">
+     <li>
+    What is Programming
+     </li>
+  </ul> 
+  
+  <p class="parah1">
+     A programming language is a way for programmers (developers) to communicate with computers. Programming languages consist of a set of rules that allows string values to be converted into various ways of generating machine code, or, in the case of visual programming languages, graphical elements.6 days ago 
+  </p> <br />
+  <h3>
+     Defination:
+  </h3> <hr />
+  Authors disagree on the precise definition, but traits often considered important requirements and objectives of the language to be characterized as a programming language:<br /> <ul>
+     <li class="weight"> 
+Function: A programming language is a language used to write computer programs, which instruct a <mark>computer</mark> to perform some kind of computation, and/or organize the flow of control between external devices (such as a printer, a robot, or any peripheral).</li> <br /> 
+   <li class="weight">
+
+Target: Programming languages differ from natural languages in that natural languages are only used for interaction between people, while programming languages also allow humans to communicate instructions to machines. In some cases, programming languages are used by one program or machine to program another; PostScript source code, for example, is frequently generated programmatically to control a computer printer or display.</li> <br /> 
+  <li>
+Constructs: Programming languages may contain constructs for defining and manipulating data structures or for controlling the flow of execution.</li> <br /> <ul>
+  <li class="weight">
+Expressive power: The theory of computation classifies languages by the computations they can express (see Chomsky hierarchy). All Turing complete languages can implement the same set of <mark>algorithms</mark>. ANSI/ISO SQL and Charity are examples of languages that are not Turing complete yet often called programming languages.</li> </ul> <br />
+  
+Non-computational languages, such as <mark>markup languages </mark>like HTML or formal grammars like BNF, are usually not considered programming languages. It is a usual approach to embed a programming language into the non-computational (host) language, to express templates for the host language.
+  <br /> <br />
+  <h3>
+     Purpose 
+  </h3> <hr />
+  A prominent purpose of programming languages is to provide instructions to a computer. As such, programming languages differ from most other forms of human expression in that they require a greater degree of precision and completeness. When using a natural language to communicate with other people, human authors and speakers can be ambiguous and make small errors, and still expect their intent to be understood. However, computers do exactly what they are told to do, and cannot understand the code the programmer "intended" to write. The combination of the language definition, the program, and the program's inputs must fully specify the external behaviour that occurs when the program is executed. <br /> <br />
+  Many languages have been designed from scratch, altered to meet new needs, combined with other languages, and eventually fallen into disuse. Although there have been attempts to design one "universal" computer language that serves all purposes, all of them have failed to be accepted in this role. The need for diverse computer languages arises from the diversity of contexts in which languages are used:<br /> <ul>
+     <li class="weight">Programs range from tiny scripts written by individual hobbyists to huge systems written by hundreds of programmers.</li> 
+  <li>
+    Programmers range in expertise from novices who need simplicity above all else, to experts who may be comfortable with considerable complexity.</li>
+    <li class="weight">
+Programs must balance speed, size, and simplicity on systems ranging from microcontrollers to supercomputers.</li>
+    <li class="weight">
+Programs may be written once and not change for generations, or they may undergo nearly constant modification.
+Finally, programmers may simply differ in their tastes: they may be accustomed to discussing problems and expressing them in a particular language.
+  </li>
+  </ul> </ul>
+    <h1 class="two" align="center">Now,We know that How To write Program.</h1>
+       <ul>
+         <li>#HTML(Hyper text markup language) </li> <br />
+           <ul>
+            <li>
+              There Are Mainly 4 Basic OR Core Elements of HTML. <br />
+              1.HTML Tag <br />
+              2.Head Tag <br />
+              3.title Tag <br />
+              4.Body Tag <br />
+            </li>
+         </ul>
+      </ul> 
+  <h2>
+    Example:
+</h2> 
+  <img src="Screenshot_2023-08-27-01-58-27-061_com.android.chrome.png" alt="htmlpic"/>
+  
+    <h2>
+HTML Heading:
+</h2> 
+  <p>
+     HTML headings are defined with the HEADING ONE TO HEADING SIX  tags.
+  </p>
+  <div align="center">
+  <img src="Screenshot_2023-08-27-02-25-47-797_com.android.chrome.png" height="84%" width="84%" />
+  </div> <br />
+  <h2>
+HTML image
+</h2> 
+  HTML image With the define image tag.<br /> 
+ <h3>
+  Example:</h3>
+ <div align="center"> 
+   <img src="images.png" alt="imagetag"  />    
+ </div> <br /> 
+  <h1 align="center" style="color:purple">
+     You Can Also learn HTML From YouTube.
+  </h1>
+  <div align="center">
+  <iframe width="720" height="400" loop controls autoplay="true" src="https://www.youtube.com/embed/oYRda7UtuhA" title="How To Make Website Using HTML &amp; CSS | Full Responsive Multi Page Website Design Step by Step" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </div> <BR>
+  <h2>
+  #CSS (Cascading style sheets )</h2> 
+ <h3 style="color:green">
+    There are 3 types to write CSS code.
+ </h3> <br />
+  1.Inline CSS <br />
+  2.Internal CSS <br />
+  3.External CSS <br /> <br />
+<b>
+*Inline CSS:</b>An inline style may be used to apply a unique style for a single element. <br />
+
+To use inline styles, add the style attribute to the relevant element. The style attribute can contain any CSS property. <br />
+  <h1>
+     Example:
+  </h1>
+  <div>
+  <img src="Screenshot_2023-08-27-20-33-17-767_com.android.chrome.png" />
+  </div> <br />
+ <b>*Internal CSS </b>:An internal style sheet may be used if one single HTML page has a unique style. <br />
+The internal style is defined inside the style element, inside the head section. <br /> <h1>
+   Example:
+</h1>
+  <div id="internalcss">
+     <img src="IMG_20230828_115756.jpg" />
+  </div>
+  <b>*External CSS:</b>With an external style sheet, you can change the look of an entire website by changing just one file! <br />
+Each HTML page must include a reference to the external style sheet file inside the (link) element, inside the head section.
+  <h1>
+   Example:
+</h2> <br /> External styles are defined within the link element, inside the head section of an HTML page: <br />
+  <div>
+     <img src="Screenshot_2023-08-27-20-53-27-286_com.android.chrome.png" />
+  </div>
+<h1 align="center" style="color:purple">
+   You Can See Below YouTube Video For Clear The Concept..
+</h1>
+  <div align="center">
+  <iframe width="720" height="400" src="https://www.youtube.com/embed/ESnrn1kAD4E" title="CSS Tutorial for Beginners | Complete CSS with Project, Notes &amp; Code" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div> <br />
+  
+  
+<footer>
+  <p align="center" id="copyright">
+     copyright &copy; 2023,Coding Adda
+  </p>
+</footer>
+</body>
+</html>
